@@ -22,3 +22,9 @@ This will:
 - Mine two additional blocks
 - Verify the chain is valid
 - Demonstrate tampering detection by modifying block data and showing validation fails
+
+## #2 The Multi-sig wallet
+- A contract that requires M-of-N owners to approve a transaction
+- Ensures users cannot double vote
+- Enforces access control for specific functions
+- Using Solidity and Hardhat to create the contract
