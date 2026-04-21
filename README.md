@@ -11,7 +11,7 @@ To run the blockchain test and see it in action:
 
 ```bash
 # Navigate to the project directory
-cd /path/to/BlockchainProgramming
+cd /path/to/BlockchainProgramming/BasicBlockchain
 
 # Run the test script
 node test.js
