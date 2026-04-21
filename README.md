@@ -5,3 +5,20 @@ A repository for projects and code related to learning blockchain technologies
 - A simple Blockchain programmed in JavaScript
 - Uses the basic concepts of a blockchain
 - A test of fundamentals and a way to visualize concepts
+
+### Running the Test
+To run the blockchain test and see it in action:
+
+```bash
+# Navigate to the project directory
+cd /path/to/BlockchainProgramming
+
+# Run the test script
+node test.js
+```
+
+This will:
+- Create a new blockchain with a genesis block
+- Mine two additional blocks
+- Verify the chain is valid
+- Demonstrate tampering detection by modifying block data and showing validation fails
