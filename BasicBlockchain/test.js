@@ -1,5 +1,5 @@
 // Test the blockchain implementation
-const { Block, Blockchain } = require('./BasicBlockchain/Blockchain');
+const { Block, Blockchain } = require('./Blockchain');
 
 // Create a new blockchain
 let myBlockchain = new Blockchain();
